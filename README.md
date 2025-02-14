@@ -19,9 +19,9 @@
     
 
 ## Miembros del Grupo
-- Miembro 1
-- Miembro 2
-- Miembro 3
+- Juan Pablo Pérez
+- Andrés Pérez
+
 
 ## Enlace al Repositorio con los Códigos del Benchmark
 [Repositorio de Códigos del Benchmark](https://github.com/JP1604/dockerlanguages.git)
