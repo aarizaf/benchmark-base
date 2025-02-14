@@ -2,7 +2,7 @@
 
 # Clonar el repositorio con las soluciones
 git clone https://github.com/JP1604/dockerlanguages.git
-cd benchmark-ordenamiento
+cd dockerlanguages
 
 # Archivo CSV para resultados
 RESULTADOS="resultados/resultados.csv"
